@@ -1,0 +1,9 @@
+file = open("data.txt", "r")
+
+print(file.read())
+
+file.close()
+
+data.txt should contain:
+Hello World!!
+Welcome to Python
